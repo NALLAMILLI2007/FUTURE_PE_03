@@ -1,0 +1,10 @@
+Prompt:
+
+Create SEO-optimized content for a bookstore called "Book Haven Bookstore."
+
+Requirements:
+1. Generate a detailed SEO blog outline.
+2. Write an informative blog article using relevant keywords.
+3. Suggest related blog topics (content cluster).
+4. Provide internal linking ideas between blog posts.
+5. Keep the content engaging, informative, and optimized for search engines.
